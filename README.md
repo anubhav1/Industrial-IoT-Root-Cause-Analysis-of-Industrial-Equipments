@@ -1,5 +1,12 @@
 # Industrial-IoT-Root-Cause-Analysis-of-Industrial-Equipments
 
+This is a simple GenAI application which will take the documentation of a motor and then
+- Summarizes the specs from that documentation
+- Identifies the anomalous data of the motor and
+- Suggests troubleshooting actions.
+
+This consists of two python files: one for the Streamlit front end, and one for the supporting library to make calls to AWS Bedrock.
+
 ## Requirements
 
 - Python 3.12.x
