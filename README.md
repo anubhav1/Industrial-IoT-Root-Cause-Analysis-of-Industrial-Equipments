@@ -5,6 +5,8 @@
 - Python 3.12.x
 - Ubunutu 24.x
 
+## Commands
+
 1. Install python dependecies
 
 ```pip3 install pip==24.0 && pip3 install -r setup/requirements.txt -U```
